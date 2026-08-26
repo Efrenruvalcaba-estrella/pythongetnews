@@ -1,4 +1,4 @@
-basicamente construi un programa en python que hace 4 cosas principales.
+Construi un programa en python que hace 4 cosas principales.
 primero se conecta a internet para entrar a la pagina web de la cespe y descargar 
 todo el texto de las noticias de forma automatica usando la libreria 
 requests y bs4. 
