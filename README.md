@@ -31,4 +31,4 @@ colonias y avenidas cree una lista con las palabras clave como calle,
 colonia o avenida, y cuando el ciclo encuentra una de estas palabras
 toma la palabra siguiente y la guarda en la categoria correspondiente de
 nuestro diccionario de ubicaciones. es la forma mas sencilla que se me 
-ocurrio sin meterme en expresiones regulares avanzadas.
+ocurrio, y no logre realizar los últimos 4 puntos que solicito el profe Pako.
