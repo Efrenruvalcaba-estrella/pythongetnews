@@ -1,0 +1,14 @@
+La parte  de este trabajo que me toco realizar es API y conexión, Investigar la conexión entre la API y PostgreSQL 
+y realizar las primeras consultas. 
+Referente a mi parte del trabajo solo eh realizado un breve investigación, durante las ultimas 3 clases nuestro 
+equipo hemos estado realizando pruebas para ingresar a la base de datos, y aqui fueron nuestros primero errores. 
+La primera falla que mi equipo no logro conectarse a la base de datos y estuvimos investigando y realizando pruebas 
+y ninguna de ellas funciono, después descubrimos que nuestros equipos no se encontraban, utilizamos el comando ping y 
+anexando nuestra Íps nunca lógranos hacer ping, en las	 siguientes clases descubrimos que fue por	que mi compañero 
+tenia activado su  firewall , una ves que lo desactivo logramos hacer ping en nuestros equipos e intentamos nuevamente 
+conectar a la base de datos otra ves no lo logramos, después en la siguiente clase  volvimos a intentar lo mismo y 
+no funcionaba, le pedimos ayudo a profesor	 y nos ayudo a conectarnos por medio de la terminal de mi equipo, y si 
+logramos conectarlo , y pensamos en volver a conectarnos a la base utilizando dbeaver y nuevamente volvió a fallar, 
+y el profesor nos comento en utilizar postgresMyadmin y si logramos acceder por esesoftware a la basa, pero nunca 
+descubrimos por que no logramos conectarnos por dbeaver, después de eso realizamos algunos códigos de prueba y todo 
+funciono correctamente.
